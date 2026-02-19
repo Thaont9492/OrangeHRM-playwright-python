@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Pytest
+.pytest_cache/
+
+# Auth state (contains session cookies)
+auth/
+
+# Screenshots/debug images
+screenshots/
+debug_*.png
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Claude
+.claude/
